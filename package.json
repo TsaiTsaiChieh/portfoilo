@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TsaiTsaiChieh/portfolio.git"
+  },
+  "keywords": [],
+  "author": "d0177381@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TsaiTsaiChieh/portfolio/issues"
+  },
+  "homepage": "https://tsaitsaichieh.github.io/portfolio"
+}
