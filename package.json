@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TsaiTsaiChieh/portfolio/issues"
   },
-  "homepage": "https://tsaitsaichieh.github.io/portfolio"
+  "homepage": "https://tsaitsaichieh.github.io/portfolio",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
 }
