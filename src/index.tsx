@@ -6,5 +6,5 @@ const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement,
 )
 root.render(
-  <h1>Hello React!</h1>,
+  <h1 className='text-primary text-4xl font-bold'>Hello React!</h1>,
 )
